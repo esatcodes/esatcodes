@@ -6,7 +6,7 @@
 <!-- Hakkımda -->
 ## 💡 Hakkımda
 - 🚀 Yazılım öğrenme yolculuğundayım  
-- 🎯 Python & JavaScript geliştiricisi olma hedefim var  
+- 🎯 Python & C# geliştiricisi olma hedefim var  
 - 🧠 Makine öğrenmesi ve oyun geliştirme ile ilgileniyorum  
 - 📌 Şu anda **Python** ve **Unity** üzerine çalışıyorum  
 

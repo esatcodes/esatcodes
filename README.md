@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=200&section=header&text=Hi%20👋%20I'm%20Esat%20Codes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=200&section=header&text=Hi%20👋%20I'm%20Esat%20Taha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Hakkımda -->
